@@ -1,4 +1,4 @@
-﻿# Embryo-mammary-gland
+# Documentation for the codes used in the [publication]() submitted for review in the [XYZ journal]() by [Authors]() 
  
  ## Installation
  The usage of this package requires python package [vollseg](https://pypi.org/project/vollseg/) and     Fiji plugin [BTrack](https://imagej.net/plugins/btrack/). 
