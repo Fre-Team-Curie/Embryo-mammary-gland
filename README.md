@@ -19,7 +19,7 @@
  
 ## License
 
-Under MIT license. See [LICENSE](LICENSE).
+Under BSD 3 license. See [LICENSE](LICENSE).
 
 ## Authors
 
