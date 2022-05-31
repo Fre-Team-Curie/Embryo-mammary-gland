@@ -7,13 +7,15 @@
  
  ### BTrack installation
  For installing the Fiji plugin BTrack please visit it's ImageJ wiki page and follow these [instructions](https://imagej.net/plugins/btrack/#installation)
- ## Tissue Segmentation
+## Tissue Segmentation
  
- ## Tissue Branch Tracking
+## Tissue Branch Tracking
+
+## Tissue Track Analysis
 
 ## Requirements
 
-- Python 3.7 and above. Latest version of Fiji.
+- Python 3.7 and above. Latest version of [Fiji](https://imagej.net/software/fiji/downloads).
  
 ## License
 
