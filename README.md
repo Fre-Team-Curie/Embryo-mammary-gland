@@ -23,5 +23,5 @@ Under BSD 3 license. See [LICENSE](LICENSE).
 
 ## Authors
 
-- Claudia Carabana
-- Varun Kapoor 
+- [Claudia Carabana](https://imagej.net/people/claudiacarabana)
+- [Varun Kapoor](https://imagej.net/people/kapoorlab) 
