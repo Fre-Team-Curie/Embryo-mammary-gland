@@ -1,8 +1,12 @@
-## Documentation for the codes used in the [publication]() submitted for review in the [XYZ journal]() by [Authors]() 
- 
- ## Installation
- The usage of this package requires python package [vollseg](https://pypi.org/project/vollseg/) and     Fiji plugin [BTrack](https://imagej.net/plugins/btrack/). 
- ### VollSeg installation
+## Documentation for the codes used in the [publication](Cell fate specification underlies positional cues during branching morphogenesis of the
+embryonic mammary epithelium)  by Claudia Carabaña, Wenjie Sun, Meghan Perkins, Varun Kapoor, Robin Journot, Fatima Hartini, Marisa M. Faraldo, Bethan Lloyd-Lewis, Silvia Fre
+
+## Data and software availability
+
+Data is available from the corresponding authors upon request. The segmentation was performed using U-Net model that can be used by installing the python package [vollseg](https://pypi.org/project/vollseg/). The tracking was done using a custom GUI plugin available from the Fiji update site "MTrack" and shows up in Plugins > Tracking > BTrackMate Tissue Tracker. The results in the paper were generated using this jar. Following the recent updates to the codebase the upgraded  tissue tracker is now a part of the popular Fiji plugin called TrackMate and is available from the Fiji update site "BTrack" and shows up as a TrackMate detector [BTrack](https://imagej.net/plugins/btrack/).
+
+
+### VollSeg installation
  For installation of vollseg please see the instructions [here](https://github.com/Kapoorlabs-CAPED/VollSeg#installation). vollseg is also available as a Napari plugin and can be used instead of using it with the Jupyter notebooks, for installing vollseg as a Napari plugin please see [here](https://www.napari-hub.org/plugins/vollseg-napari).
  
  ### BTrack installation
