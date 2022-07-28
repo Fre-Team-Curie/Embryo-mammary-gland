@@ -1,5 +1,6 @@
-## Documentation for the codes used in the [publication](Cell fate specification underlies positional cues during branching morphogenesis of the
-embryonic mammary epithelium)  by Claudia Carabaña, Wenjie Sun, Meghan Perkins, Varun Kapoor, Robin Journot, Fatima Hartini, Marisa M. Faraldo, Bethan Lloyd-Lewis, Silvia Fre
+## Documentation for the codes used in the publication 
+"Cell fate specification underlies positional cues during branching morphogenesis of the
+embryonic mammary epithelium"  by Claudia Carabaña, Wenjie Sun, Meghan Perkins, Varun Kapoor, Robin Journot, Fatima Hartini, Marisa M. Faraldo, Bethan Lloyd-Lewis, Silvia Fre
 
 ## Data and software availability
 
