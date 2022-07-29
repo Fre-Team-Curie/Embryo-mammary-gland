@@ -1,7 +1,6 @@
 ## Documentation for the codes used in the publication
 
-Title of Publication: "Cell fate specification underlies positional cues during branching morphogenesis of the
-embryonic mammary epithelium"
+Title of Publication: 
 
 Journal Name:
 
