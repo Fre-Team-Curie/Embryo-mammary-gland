@@ -1,12 +1,12 @@
 ## Documentation for the codes used in the publication
 
-Title of Publication: 
+Title of Publication: Spatially distinct epithelial and mesenchymal cell subsets along progressive lineage restriction in the branching embryonic mammary gland
 
-Journal Name:
+Journal Name: The EMBO Journal
 
 Publication Date:
 
-Authors: Claudia Carabaña, Wenjie Sun, Meghan Perkins, Varun Kapoor, Robin Journot, Fatima Hartini, Marisa M. Faraldo, Bethan Lloyd-Lewis, Silvia Fre
+Authors: Claudia Carabaña, Wenjie Sun*, Camila Veludo Ramos*, Mathilde Huyghe, Meghan Perkins, Aurélien Maillot, Bethan Lloyd-Lewis & Silvia Fre
 
 Publication Link:
 
